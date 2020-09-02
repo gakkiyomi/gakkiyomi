@@ -1,6 +1,5 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/gakkiyomi?style=for-the-badge&color=blue)](https://github.com/gakkiyomi?tab=followers)
-[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Blog&url=https://blog.eiyouhe.com)](https://blog.eiyouhe.com)
 [![GitHub last commit](https://img.shields.io/github/last-commit/gakkiyomi/gakkiyomi?label=update&style=for-the-badge&color=orange)](https://github.com/gakkiyomi/gakkiyomi)
 
 <table>
