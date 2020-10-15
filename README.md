@@ -1,6 +1,7 @@
 ### Gakkiyomi
 
-身体在深圳的普通人。
+所有命运的馈赠，早已在暗中标注好了价格，不是吗？
+一个身体在深圳的普通人。
 
 ### 我在 GitHub 上的统计
 [![GitHub followers](https://img.shields.io/github/followers/gakkiyomi?style=for-the-badge&color=blue)](https://github.com/gakkiyomi?tab=followers)
