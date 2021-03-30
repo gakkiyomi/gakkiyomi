@@ -28,3 +28,5 @@
 </tr>
 </table>
 
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/gakkiyomi?history_days=30&&max_languages=15&language_colors=["0099CC","66CCCC","660066","999999","99CCFF","CC9900","FF9933","990000","333366","FF99CC","FF9999","669900","99FF99","FFFF00","000000","006633"])
+
