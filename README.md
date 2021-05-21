@@ -22,7 +22,7 @@
 <td valign="top" width="46%">
 
 
-![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=gakkiyomi&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gakkiyomi&layout=compact&theme=tokyonight)
 
 </td>
 </tr>
