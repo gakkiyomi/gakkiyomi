@@ -9,7 +9,7 @@
 ### 我在 GitHub 上的统计
 [![GitHub followers](https://img.shields.io/github/followers/gakkiyomi?style=for-the-badge&color=blue)](https://github.com/gakkiyomi?tab=followers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/gakkiyomi/gakkiyomi?label=update&style=for-the-badge&color=orange)](https://github.com/gakkiyomi/gakkiyomi)
-<a title="Hits" sytle= "size: 1002px" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/gakkiyomi/hits.svg"></a>
+
 
 <table>
 <tr>
