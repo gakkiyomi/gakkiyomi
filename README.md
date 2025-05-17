@@ -10,10 +10,10 @@
 
 ### Latest Blog Posts:
 
-* [菠萝博客 v2.6.1_stable 版本发布！](http://localhost:8080/articles/2025/05/17/1747451410051.html)
-* [我窥探了一次他人的人生](http://localhost:8080/articles/2025/05/14/1747217650690.html)
-* [终于，我打通了bolo 博客与摸鱼派](http://localhost:8080/articles/2025/05/10/1746880638954.html)
-* [2025 年的五一](http://localhost:8080/articles/2025/05/05/1746450734691.html)
-* [More](http://localhost:8080)
+* [菠萝博客 v2.6.1_stable 版本发布！](https://gakkiyomi.blog/articles/2025/05/17/1747451410051.html)
+* [我窥探了一次他人的人生](https://gakkiyomi.blog/articles/2025/05/14/1747217650690.html)
+* [终于，我打通了bolo 博客与摸鱼派](https://gakkiyomi.blog/articles/2025/05/10/1746880638954.html)
+* [2025 年的五一](https://gakkiyomi.blog/articles/2025/05/05/1746450734691.html)
+* [More](https://gakkiyomi.blog)
 
   
