@@ -10,10 +10,10 @@
 
 ### Latest Blog Posts:
 
+* [菠萝博客v2.6.2 新功能-订阅博主preview](https://gakkiyomi.blog/articles/2025/05/24/1748089282049.html)
 * [我的书单](https://gakkiyomi.blog/books)
 * [菠萝博客 v2.6.1_stable 版本发布！](https://gakkiyomi.blog/articles/2025/05/17/1747451410051.html)
 * [我窥探了一次他人的人生](https://gakkiyomi.blog/articles/2025/05/14/1747217650690.html)
-* [终于，我打通了bolo 博客与摸鱼派](https://gakkiyomi.blog/articles/2025/05/10/1746880638954.html)
 * [More](https://gakkiyomi.blog)
 
   
