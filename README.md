@@ -10,10 +10,10 @@
 
 ### Latest Blog Posts:
 
-* [黑神话悟空艺术展小记](https://gakkiyomi.blog/articles/2025/05/31/1748691385877.html)
-* [菠萝博客v2.6.2 新功能-订阅博主preview](https://gakkiyomi.blog/articles/2025/05/24/1748089282049.html)
-* [我的书单](https://gakkiyomi.blog/books)
-* [菠萝博客 v2.6.1_stable 版本发布！](https://gakkiyomi.blog/articles/2025/05/17/1747451410051.html)
-* [More](https://gakkiyomi.blog)
+* [黑神话悟空艺术展小记](https://dev.gakkiyomi.blog/articles/2025/05/31/1748691385877.html)
+* [菠萝博客v2.6.2 新功能-订阅博主preview](https://dev.gakkiyomi.blog/articles/2025/05/24/1748089282049.html)
+* [我的书单](https://dev.gakkiyomi.blog/books)
+* [菠萝博客 v2.6.1_stable 版本发布！](https://dev.gakkiyomi.blog/articles/2025/05/17/1747451410051.html)
+* [More](https://dev.gakkiyomi.blog)
 
   
