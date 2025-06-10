@@ -10,10 +10,10 @@
 
 ### Latest Blog Posts:
 
+* [《匹诺曹的谎言》游戏DLC测评，依旧类魂尖子生](https://gakkiyomi.blog/articles/2025/06/10/1749549418487.html)
 * [Steam家庭组招人啦！！！！](https://gakkiyomi.blog/articles/2025/06/03/1748922776811.html)
 * [什么是责任链模式？](https://gakkiyomi.blog/articles/2025/06/02/1748855216822.html)
 * [黑神话悟空艺术展小记](https://gakkiyomi.blog/articles/2025/05/31/1748691385877.html)
-* [菠萝博客v2.6.2 新功能-订阅博主preview](https://gakkiyomi.blog/articles/2025/05/24/1748089282049.html)
 * [More](https://gakkiyomi.blog)
 
   
