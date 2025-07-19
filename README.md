@@ -10,10 +10,10 @@
 
 ### Latest Blog Posts:
 
+* [什么是形变（Type Variance）？](https://gakkiyomi.blog/articles/2025/07/19/1752897315152.html)
 * [ServletContextInitializer](https://gakkiyomi.blog/articles/2025/07/15/1752548212181.html)
 * [SpringBean 的生命周期](https://gakkiyomi.blog/articles/2025/07/07/1751879378671.html)
 * [《情感反诈模拟器》为什么我爱的是何月盈？](https://gakkiyomi.blog/articles/2025/06/23/1750652741988.html)
-* [《剑星》一款8分的换装模拟器](https://gakkiyomi.blog/articles/2025/06/20/1750420857169.html)
 * [More](https://gakkiyomi.blog)
 
   
