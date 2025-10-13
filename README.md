@@ -10,10 +10,10 @@
 
 ### Latest Blog Posts:
 
+* [47岁出"新手村"的刘邦](https://gakkiyomi.blog/articles/2025/10/12/1760246754028.html)
 * [海量数据下设计一个“不拖垮”数据库的规则打标功能](https://gakkiyomi.blog/articles/2025/10/05/1759670272207.html)
 * [《明末渊虚之羽》一场大型的魂游Cosplay](https://gakkiyomi.blog/articles/2025/08/03/1754228761094.html)
 * [什么是形变（Type Variance）？](https://gakkiyomi.blog/articles/2025/07/19/1752897315152.html)
-* [ServletContextInitializer](https://gakkiyomi.blog/articles/2025/07/15/1752548212181.html)
 * [More](https://gakkiyomi.blog)
 
   
