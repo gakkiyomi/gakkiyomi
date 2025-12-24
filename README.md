@@ -10,10 +10,10 @@
 
 ### Latest Blog Posts:
 
+* [2025年我跟曾经的自己和解了](https://gakkiyomi.blog/summary2025)
 * [当代中国人的矛盾、情绪与裂痕](https://gakkiyomi.blog/articles/2025/12/08/1765127849551.html)
 * [论程序员的本本主义与经验主义](https://gakkiyomi.blog/articles/2025/12/01/1764518758886.html)
 * [47岁出"新手村"的刘邦](https://gakkiyomi.blog/articles/2025/10/12/1760246754028.html)
-* [海量数据下设计一个“不拖垮”数据库的规则打标功能](https://gakkiyomi.blog/articles/2025/10/05/1759670272207.html)
 * [More](https://gakkiyomi.blog)
 
   
